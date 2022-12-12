@@ -4,11 +4,11 @@
   <img align="left" alt="iqbalansyor | LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 
-Hi, I'm iqbalansyor, an experienced mobile engineer, on iOS and React Native. And also on Android, little-bit
+Hi, I'm iqbalansyor, an experienced mobile engineer, on iOS, Android, and React-Native
 
-- 🔭 Currently working as Sr. Mobile Engineer on [Waresix](https://waresix.com/)
-- 🌱 Currently working on iOS, React-Native and Android. And some open-source project. One of my open source project [VegaScrollList](https://github.com/iqbalansyor/react-native-vega-scroll-list)
-- 👯 Open to freelance, code review, or collaborate on iOS, React Native. Contact me on [email](mailto:ansyori.iqbal@gmail.com) for more detail information.
+- 🔭 Currently working as Mobile Engineer (Manager) on [Waresix](https://waresix.com/)
+- 🌱 Open source project [VegaScrollList](https://github.com/iqbalansyor/react-native-vega-scroll-list)
+- 👯 Open to freelance, code review, or collaborate on iOS, Android, React Native. Contact me on [email](mailto:ansyori.iqbal@gmail.com) for more detail information.
 - 💬 Ask me about anything [here](https://github.com/iqbalansyor/iqbalansyor/issues). 
 <br>
 
