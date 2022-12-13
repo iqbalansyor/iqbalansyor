@@ -1,4 +1,4 @@
-### Hi there, [iqbalansyor](https://github.com/iqbalansyor) here 👋
+### Hi, [iqbalansyor](https://github.com/iqbalansyor) here 👋
 
 - 🔭 Currently working as Mobile Engineer (iOS, Android, and React-Native) on [Waresix](https://waresix.com/)
 - 🌱 Open source project: [VegaScrollList](https://github.com/iqbalansyor/react-native-vega-scroll-list)
