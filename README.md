@@ -4,7 +4,7 @@
   <img align="left" alt="iqbalansyor | LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 
-Hi, I'm iqbalansyor, a mobile engineer (experienced on iOS, Android, and React-Native)
+Hi, I'm iqbalansyor, a mobile engineer (iOS, Android, and React-Native)
 
 - 🔭 Currently working as Mobile Engineer (Manager) on [Waresix](https://waresix.com/)
 - 🌱 Open source project: [VegaScrollList](https://github.com/iqbalansyor/react-native-vega-scroll-list)
