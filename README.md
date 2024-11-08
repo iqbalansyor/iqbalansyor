@@ -1,6 +1,6 @@
 ### Hi, [iqbalansyor](https://github.com/iqbalansyor) here 👋
 
-- 🔭 Currently working as Mobile Engineer (iOS, Android, and React-Native) on [Waresix](https://waresix.com/)
+- 🔭 Working as Mobile Engineer (iOS, Android, and React-Native)
 - 🌱 Open source project: [VegaScrollList](https://github.com/iqbalansyor/react-native-vega-scroll-list)
 - 👯 Contact me on [email](mailto:ansyori.iqbal@gmail.com), [linkedIn](https://www.linkedin.com/in/iqbal-ansyori-01481270/), or [twitter](https://twitter.com/siansyor) to collaborate.
 - 💬 Question? [here](https://github.com/iqbalansyor/iqbalansyor/issues). 
